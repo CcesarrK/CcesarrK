@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm Augusto, a software developer with a passion for solving problems by developing efficient solutions.
+I'm Cesar, a software developer with a passion for solving problems by developing efficient solutions.
 
 I'm a full stack developer, having developed multiple projects on freelance. I'm a fast learner and I'm always looking for new challenges.
 
